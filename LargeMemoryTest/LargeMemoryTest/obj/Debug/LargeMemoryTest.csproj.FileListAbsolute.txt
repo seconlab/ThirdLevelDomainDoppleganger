@@ -1,0 +1,6 @@
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Debug\LargeMemoryTest.exe.config
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Debug\LargeMemoryTest.exe
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Debug\LargeMemoryTest.pdb
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\obj\Debug\LargeMemoryTest.csprojResolveAssemblyReference.cache
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\obj\Debug\LargeMemoryTest.exe
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\obj\Debug\LargeMemoryTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Release\LargeMemoryTest.exe.config
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Release\LargeMemoryTest.exe
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\bin\Release\LargeMemoryTest.pdb
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\obj\Release\LargeMemoryTest.exe
+C:\Users\Geoffrey\Dropbox\Projects\ThirdLevelDomainDoppleganger\LargeMemoryTest\LargeMemoryTest\obj\Release\LargeMemoryTest.pdb
